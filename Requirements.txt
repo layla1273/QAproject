@@ -1,3 +1,6 @@
 mysql-connector-python
 MySQL
 Python
+Pytest
+Flask
+Docker Swarm
